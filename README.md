@@ -45,7 +45,7 @@ Always giving my best 💪
 ![Skills3](https://skillicons.dev/icons?i=ps,pr,windows,apple,linux,ai,xd,bash,gitlab,mongodb,npm,git,vscode&size=50)
 
 <!-- Row 4: Social & Music -->
-![Skills4](https://skillicons.dev/icons?i=spotify,github,discord,twitter,instagram&size=50)
+![Skills4](https://skillicons.dev/icons?i=spotify,github,twitter,instagram&size=50)
 ---
 
 ## ❤️ Support me
