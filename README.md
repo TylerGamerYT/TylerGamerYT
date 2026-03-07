@@ -32,20 +32,27 @@ Programming isn’t just about what you know, it’s about solving problems and 
 Always giving my best 💪
 
 ---
-<!-- Row 1: Programming languages -->
 ## 🛠️ Using the following tools
 
-<!-- Row 1: Programming languages -->
-![Skills1](https://skillicons.dev/icons?i=py,js,ts,lua,cpp,html,css&size=50)  
+<p align="center">
+  <!-- Row 1: Programming languages -->
+  ![Skills1](https://skillicons.dev/icons?i=py,cpp,js,ts,lua,html,css&size=50)
+</p>
 
-<!-- Row 2: Frameworks, Libraries, and Apps -->
-![Skills2](https://skillicons.dev/icons?i=nodejs,react,discord,discordjs,robloxstudio,blender,figma,vim&size=50)  
+<p align="center">
+  <!-- Row 2: Frameworks, Libraries, and Apps -->
+  ![Skills2](https://skillicons.dev/icons?i=nodejs,react,discordjs,robloxstudio,blender,figma,vim&size=50)
+</p>
 
-<!-- Row 3: Tools, OS, AI, Databases -->
-![Skills3](https://skillicons.dev/icons?i=ps,pr,windows,apple,linux,ai,xd,bash,gitlab,mongodb,npm,git,vscode&size=50)
+<p align="center">
+  <!-- Row 3: Tools, OS, AI, Databases -->
+  ![Skills3](https://skillicons.dev/icons?i=vscode,ps,pr,windows,apple,linux,ai,xd,bash,gitlab,mongodb,npm,git&size=50)
+</p>
 
-<!-- Row 4: Social & Music -->
-![Skills4](https://skillicons.dev/icons?i=spotify,github,twitter,instagram&size=50)
+<p align="center">
+  <!-- Row 4: Social & Music -->
+  ![Skills4](https://skillicons.dev/icons?i=spotify,github,twitter,instagram&size=50)
+</p>
 ---
 
 ## ❤️ Support me
