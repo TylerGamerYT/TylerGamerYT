@@ -32,8 +32,6 @@ Programming isn’t just about what you know, it’s about solving problems and 
 Always giving my best 💪
 
 ---
-## 🛠️ Using the following tools
-
 <!-- Row 1: Programming languages -->
 ## 🛠️ Using the following tools
 
