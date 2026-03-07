@@ -32,7 +32,6 @@ Programming isn’t just about what you know, it’s about solving problems and 
 Always giving my best 💪
 
 ---
-
 ## 🛠️ Using the following tools
 
 <!-- Row 1: Programming languages -->
@@ -44,6 +43,8 @@ Always giving my best 💪
 <!-- Row 3: Tools, OS, AI, Databases -->
 ![Skills3](https://skillicons.dev/icons?i=ps,pr,windows,apple,linux,ai,xd,bash,gitlab,mongodb,npm,git&size=50)
 
+<!-- Row 4: Social & Music -->
+![Skills4](https://skillicons.dev/icons?i=spotify,github,discord,twitter,instagram&size=50)
 ---
 
 ## ❤️ Support me
