@@ -41,12 +41,18 @@ Always giving my best 💪
 ![Skills2a](https://skillicons.dev/icons?i=nodejs,react,discordjs,robloxstudio&size=50)
 ![Skills2b](https://skillicons.dev/icons?i=blender,figma,vim&size=50)
 
-<!-- Row 3: Tools, OS, AI, Databases (evenly split) -->
-![Skills3a](https://skillicons.dev/icons?i=vscode,ps,pr,ai,xd,windows&size=50)
-![Skills3b](https://skillicons.dev/icons?i=apple,linux,bash,gitlab,mongodb,npm,git&size=50)
+<!-- Row 3a: Tools & Design -->
+![Skills3a](https://skillicons.dev/icons?i=vscode,ps,pr,ai,xd&size=50)
+
+<!-- Row 3b: OS & CLI -->
+![Skills3b](https://skillicons.dev/icons?i=windows,apple,linux,bash,gitlab&size=50)
+
+<!-- Row 3c: Databases & Version Control -->
+![Skills3c](https://skillicons.dev/icons?i=mongodb,npm,git&size=50)
 
 <!-- Row 4: Social & Music -->
 ![Skills4](https://skillicons.dev/icons?i=spotify,github,twitter,instagram&size=50)
+
 ---
 
 ## ❤️ Support me
