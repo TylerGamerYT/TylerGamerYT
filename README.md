@@ -35,20 +35,13 @@ Always giving my best 💪
 ## 🛠️ Using the following tools
 
 <!-- Row 1: Programming languages -->
-![Skills1](https://skillicons.dev/icons?i=py,cpp,js,ts,lua,html,css&size=50)
+![Skills1](https://skillicons.dev/icons?i=py,cpp,js,ts,lua,html,css&size=50)  
 
 <!-- Row 2: Frameworks, Libraries, and Apps -->
-![Skills2a](https://skillicons.dev/icons?i=nodejs,react,discordjs,robloxstudio&size=50)
-![Skills2b](https://skillicons.dev/icons?i=blender,figma,vim&size=50)
+![Skills2](https://skillicons.dev/icons?i=nodejs,react,discordjs,robloxstudio,blender,figma,vim&size=50)  
 
-<!-- Row 3a: Tools & Design -->
-![Skills3a](https://skillicons.dev/icons?i=vscode,ps,pr,ai,xd&size=50)
-
-<!-- Row 3b: OS & CLI -->
-![Skills3b](https://skillicons.dev/icons?i=windows,apple,linux,bash,gitlab&size=50)
-
-<!-- Row 3c: Databases & Version Control -->
-![Skills3c](https://skillicons.dev/icons?i=mongodb,npm,git&size=50)
+<!-- Row 3: Tools, OS, AI, Databases -->
+![Skills3](https://skillicons.dev/icons?i=vscode,ps,pr,windows,apple,linux,ai,xd,bash,gitlab,mongodb,npm,git&size=50)
 
 <!-- Row 4: Social & Music -->
 ![Skills4](https://skillicons.dev/icons?i=spotify,github,twitter,instagram&size=50)
