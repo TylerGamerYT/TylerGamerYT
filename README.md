@@ -42,13 +42,16 @@ Always giving my best 💪
 **Row 2: Frameworks, Libraries & Apps**  
 ![Skills2](https://skillicons.dev/icons?i=nodejs,react,discordjs,robloxstudio,blender,figma,vim&size=50)  
 
-<!-- Row 3: Tools, OS, AI, Databases (reordered) -->
+<!-- Row 3: Tools, OS, AI, Databases -->
 **Row 3: Tools, OS, AI, Databases**  
 ![Skills3](https://skillicons.dev/icons?i=vscode,ps,pr,ai,xd,replit,cloudflare,windows,apple,linux,bash,mongodb,npm,git,gitlab&size=50)
 
 <!-- Row 4: Social & Music -->
 **Row 4: Social & Music**  
-![Skills4](https://skillicons.dev/icons?i=spotify,github,twitter,instagram&size=50)
+<a href="https://open.spotify.com/user/31n3o2rr7u2354jil45jexcsngsy" target="_blank"><img src="https://skillicons.dev/icons?i=spotify&size=50" alt="Spotify"></a>
+<a href="https://github.com/tylergameryt" target="_blank"><img src="https://skillicons.dev/icons?i=github&size=50" alt="GitHub"></a>
+<a href="https://twitter.com/tylergameryt" target="_blank"><img src="https://skillicons.dev/icons?i=twitter&size=50" alt="Twitter"></a>
+<a href="https://www.instagram.com/tylergameryt_/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&size=50" alt="Instagram"></a>
 
 ---
 
