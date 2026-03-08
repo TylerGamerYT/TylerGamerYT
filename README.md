@@ -42,9 +42,12 @@ Always giving my best 💪
 **Row 2: Frameworks, Libraries & Apps**  
 ![Skills2](https://skillicons.dev/icons?i=nodejs,react,discordjs,robloxstudio,blender,figma,vim&size=50)  
 
-<!-- Row 3: Tools, OS, AI, Databases -->
+<!-- Row 3a: Dev Tools & Design -->
 **Row 3: Tools, OS, AI, Databases**  
-![Skills3](https://skillicons.dev/icons?i=vscode,ps,pr,ai,xd,replit,cloudflare,windows,apple,linux,bash,mongodb,npm,git,gitlab&size=50)
+![Skills3a](https://skillicons.dev/icons?i=vscode,ps,pr,ai,xd,replit,cloudflare&size=50)
+
+<!-- Row 3b: OS, CLI & Databases -->
+![Skills3b](https://skillicons.dev/icons?i=windows,apple,linux,bash,mongodb,npm,git,gitlab&size=50)
 
 <!-- Row 4: Social & Music -->
 **Row 4: Social & Music**  
