@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Tyler
 
-He/Him | Full Stack Developer | High School Student  
+He/Him | Full Stack Developer |  
 
 I work on random projects in my free time, such as Roblox games, Discord bots, and a lot more projects.
 
