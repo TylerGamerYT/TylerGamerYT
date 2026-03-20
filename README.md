@@ -72,8 +72,8 @@ Always giving my best 💪
 </p>
 
 <p align="left">
-  <a href="https://discord.com/users/1135892597852868690">
-    <img src="https://lanyard-profile-readme.vercel.app/api/1135892597852868690?hide_status=true&theme=dark&bg=1a1b27" alt="Spotify" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31n3o2rr7u2354jil45jexcsngsy&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31n3o2rr7u2354jil45jexcsngsy&cover_image=true&theme=novatorem&show_offline=true&background_color=1a1b27&interchange=true&bar_color_cover=true" />
   </a>
 </p>
 
