@@ -66,10 +66,15 @@ Always giving my best 💪
 ## 🎮 Currently Doing / Stats
 
 <p align="left">
-  <img src="https://img.shields.io/badge/currently-online-676767?style=flat-square&labelColor=333333" alt="Status" />
-  <img src="https://img.shields.io/badge/playing-nothing%20rn-6168af?style=flat-square&labelColor=333333" alt="Playing" />
-  <img src="https://img.shields.io/badge/coding-nothing%20rn-2baadd?style=flat-square&labelColor=333333" alt="Coding" />
-  <img src="https://img.shields.io/badge/%F0%9F%8E%A7%20listening%20to-nothing%20rn-2aa152?style=flat-square&labelColor=333333" alt="Spotify" />
+  <img src="https://img.shields.io/badge/currently-online-676767?style=flat-square&labelColor=333333" />
+  <img src="https://img.shields.io/badge/playing-nothing%20rn-6168af?style=flat-square&labelColor=333333" />
+  <img src="https://img.shields.io/badge/coding-nothing%20rn-2baadd?style=flat-square&labelColor=333333" />
+</p>
+
+<p align="left">
+  <a href="https://discord.com/users/1135892597852868690">
+    <img src="https://lanyard-profile-readme.vercel.app/api/1135892597852868690?hide_status=true&theme=dark&bg=1a1b27" alt="Spotify" />
+  </a>
 </p>
 
 <details open>
