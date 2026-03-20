@@ -73,7 +73,7 @@ Always giving my best 💪
 
 <p align="left">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31n3o2rr7u2354jil45jexcsngsy&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31n3o2rr7u2354jil45jexcsngsy&cover_image=true&theme=novatorem&show_offline=true&background_color=1a1b27&interchange=true&bar_color_cover=true" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31n3o2rr7u2354jil45jexcsngsy&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true&mode=dark&t=654321" />
   </a>
 </p>
 
@@ -87,7 +87,6 @@ Always giving my best 💪
 </details>
 
 ---
-
 
 ## ❤️ Support me
 Love/like my work? Consider supporting me <3 (If you can't support, recommend me to your friends or someone, who knows, they might need some help at something)  
