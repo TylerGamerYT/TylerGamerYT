@@ -32,6 +32,7 @@ Programming isn’t just about what you know, it’s about solving problems and 
 Always giving my best 💪
 
 ---
+
 ## 🛠️ Using the following tools
 
 <!-- Row 1: Programming languages -->
@@ -61,20 +62,21 @@ Always giving my best 💪
 <a href="https://www.instagram.com/tylergameryt_/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&size=50" alt="Instagram"></a>
 
 ---
+
 ## 🎮 Currently Doing / Stats
 
 <p align="left">
-  <img src="https://img.shields.io/badge/currently-online-4c4c4c?style=flat-square&labelColor=555555" alt="Status" />
-  <img src="https://img.shields.io/badge/playing-nothing%20rn-6067b0?style=flat-square&labelColor=4c4c4c" alt="Playing" />
-  <img src="https://img.shields.io/badge/coding-nothing%20rn-33aadd?style=flat-square&labelColor=4c4c4c" alt="Coding" />
-  <img src="https://img.shields.io/badge/listening%20to-nothing%20rn-2ba052?style=flat-square&labelColor=4c4c4c&logo=spotify&logoColor=white" alt="Spotify" />
+  <img src="https://img.shields.io/badge/currently-online-676767?style=flat-square&labelColor=333333" alt="Status" />
+  <img src="https://img.shields.io/badge/playing-nothing%20rn-6168af?style=flat-square&labelColor=333333" alt="Playing" />
+  <img src="https://img.shields.io/badge/coding-nothing%20rn-2baadd?style=flat-square&labelColor=333333" alt="Coding" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%A7%20listening%20to-nothing%20rn-2aa152?style=flat-square&labelColor=333333" alt="Spotify" />
 </p>
 
 <details open>
   <summary><b>Github Stats ⚡</b></summary>
   <br/>
   <p align="left">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tylergameryt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tylergameryt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylergameryt&layout=compact&theme=tokyonight&hide=html,css" />
   </p>
 </details>
