@@ -71,3 +71,16 @@ Looking forward to know more about me? See my portfolio or my drive! (COMING SOO
   <a href="https://ko-fi.com/tylergameryt"><img src="https://img.shields.io/badge/Support%20me%20on%20Ko--fi-blue?style=for-the-badge&logo=kofi&logoColor=white&color=blue&labelColor=blue" alt="Ko-fi"></a>
   <a href="https://buymeacoffee.com/tylergameryt"><img src="https://img.shields.io/badge/Support%20me%20on%20Buy%20Me%20a%20Coffee-blue?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&color=blue&labelColor=blue" alt="Buy Me a Coffee"></a>
 </p>
+
+---
+
+## 🎮 Currently Doing / Stats
+
+**💻 VSCode:**  
+![VSCode](https://img.shields.io/badge/Editing-VSCode-blue?style=for-the-badge&logo=visual-studio-code)
+
+**🎵 Spotify Now Playing:**  
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31n3o2rr7u2354jil45jexcsngsy&cover_image=true&theme=default&show_offline=false&background_color=121212)
+
+**📊 GitHub Stats:**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tylergameryt&show_icons=true&theme=radical)c
