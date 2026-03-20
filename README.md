@@ -65,7 +65,9 @@ Always giving my best 💪
 ## 🎮 Currently Doing / Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tylergameryt&repo=tylergameryt&theme=tokyonight&show_owner=true" alt="Status" width="400" />
+  <a href="https://discord.com/users/1135892597852868690">
+    <img src="https://lanyard.wrapped.run/api/1135892597852868690?theme=dark&bg=0d1117&hide_presence=true" alt="Status" />
+  </a>
 </p>
 
 <details open>
