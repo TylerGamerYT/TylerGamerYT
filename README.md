@@ -62,6 +62,19 @@ Always giving my best 💪
 
 ---
 
+## 🎮 Currently Doing / Stats
+
+**💻 VSCode:**  
+![VSCode](https://img.shields.io/badge/Editing-VSCode-blue?style=for-the-badge&logo=visual-studio-code)
+
+**🎵 Spotify Now Playing:**  
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31n3o2rr7u2354jil45jexcsngsy&cover_image=true&theme=default&show_offline=false&background_color=121212)
+
+**📊 GitHub Stats:**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tylergameryt&show_icons=true&theme=radical)
+
+---
+
 ## ❤️ Support me
 Love/like my work? Consider supporting me <3 (If you can't support, recommend me to your friends or someone, who knows, they might need some help at something)  
 
