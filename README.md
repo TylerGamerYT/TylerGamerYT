@@ -63,6 +63,26 @@ Always giving my best 💪
 
 ---
 
+## 🎮 Currently Doing / Stats (COMING SOON)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/currently-online-676767?style=flat-square&labelColor=333333" />
+  <img src="https://img.shields.io/badge/playing-COMING%20SOON-535EDC?style=flat-square&labelColor=333333" />
+  <img src="https://img.shields.io/badge/coding-COMING%20SOON-2baadd?style=flat-square&labelColor=333333" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%A7%20listening%20to-COMING%20SOON-2aa152?style=flat-square&labelColor=333333" />
+</p>
+
+<details open>
+  <summary><b>Github Stats ⚡</b></summary>
+  <br/>
+  <p align="left">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tylergameryt&show_icons=false&count_private=true&hide_border=true&bg_color=242938&title_color=82AAFF&text_color=26D19A&line_height=20" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylergameryt&layout=compact&hide=html,css&hide_border=true&bg_color=242938&title_color=82AAFF&text_color=26D19A&color_range=26D19A,ffa657,f2cc60" />
+  </p>
+</details>
+
+---
+
 ## ❤️ Support me
 Love/like my work? Consider supporting me <3 (If you can't support, recommend me to your friends or someone, who knows, they might need some help at something)  
 
