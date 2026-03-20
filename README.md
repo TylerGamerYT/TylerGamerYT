@@ -63,31 +63,6 @@ Always giving my best 💪
 
 ---
 
-## 🎮 Currently Doing / Stats
-
-<p align="left">
-  <img src="https://img.shields.io/badge/currently-online-676767?style=flat-square&labelColor=333333" />
-  <img src="https://img.shields.io/badge/playing-nothing%20rn-6168af?style=flat-square&labelColor=333333" />
-  <img src="https://img.shields.io/badge/coding-nothing%20rn-2baadd?style=flat-square&labelColor=333333" />
-</p>
-
-<p align="left">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31n3o2rr7u2354jil45jexcsngsy&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31n3o2rr7u2354jil45jexcsngsy&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true&mode=dark&t=654321" />
-  </a>
-</p>
-
-<details open>
-  <summary><b>Github Stats ⚡</b></summary>
-  <br/>
-  <p align="left">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tylergameryt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylergameryt&layout=compact&theme=tokyonight&hide=html,css" />
-  </p>
-</details>
-
----
-
 ## ❤️ Support me
 Love/like my work? Consider supporting me <3 (If you can't support, recommend me to your friends or someone, who knows, they might need some help at something)  
 
