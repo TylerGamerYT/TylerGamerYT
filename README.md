@@ -61,11 +61,13 @@ Always giving my best 💪
 <a href="https://www.instagram.com/tylergameryt_/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&size=50" alt="Instagram"></a>
 
 ---
-
 ## 🎮 Currently Doing / Stats
 
 <p align="left">
-  <img src="https://lanyard.wrapped.run/api/1135892597852868690?theme=dark&bg=0d1117" alt="Status" />
+  <img src="https://img.shields.io/badge/currently-online-4c4c4c?style=flat-square&labelColor=555555" alt="Status" />
+  <img src="https://img.shields.io/badge/playing-nothing%20rn-6067b0?style=flat-square&labelColor=4c4c4c" alt="Playing" />
+  <img src="https://img.shields.io/badge/coding-nothing%20rn-33aadd?style=flat-square&labelColor=4c4c4c" alt="Coding" />
+  <img src="https://img.shields.io/badge/listening%20to-nothing%20rn-2ba052?style=flat-square&labelColor=4c4c4c&logo=spotify&logoColor=white" alt="Spotify" />
 </p>
 
 <details open>
