@@ -61,18 +61,20 @@ Always giving my best 💪
 <a href="https://www.instagram.com/tylergameryt_/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&size=50" alt="Instagram"></a>
 
 ---
-
 ## 🎮 Currently Doing / Stats
 
-**💻 VSCode:**  
-![VSCode](https://img.shields.io/badge/Editing-VSCode-blue?style=for-the-badge&logo=visual-studio-code)
+<p align="left">
+  <img src="https://lanyard.wrapped.run/api/tylergameryt?theme=dark&bg=1a1b27&hide_presence=true" alt="Status" />
+</p>
 
-**🎵 Spotify Now Playing:**  
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31n3o2rr7u2354jil45jexcsngsy&cover_image=true&theme=default&show_offline=false&background_color=121212)
-
-**📊 GitHub Stats:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tylergameryt&show_icons=true&theme=radical)
-
+<p align="left">
+  <details open>
+    <summary><b>Github Stats ⚡</b></summary>
+    <br/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tylergameryt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylergameryt&layout=compact&theme=tokyonight&hide=html,css" />
+  </details>
+</p>
 ---
 
 ## ❤️ Support me
