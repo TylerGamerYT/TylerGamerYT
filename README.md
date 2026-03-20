@@ -64,20 +64,22 @@ Always giving my best 💪
 
 ## 🎮 Currently Doing / Stats
 
-<p align="left">
-  <img src="https://lanyard.wrapped.run/api/1135892597852868690" alt="Status" />
-</p>
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/1135892597852868690?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/1135892597852868690)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/1135892597852868690)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/1135892597852868690)](https://dev.discordprofiles.me/openspotify/1135892597852868690)
 
 <details open>
-<summary><b>Github Stats ⚡</b></summary>
-<br/>
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tylergameryt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylergameryt&layout=compact&theme=tokyonight&hide=html,css" />
-</p>
+  <summary><b>Github Stats ⚡</b></summary>
+  <br/>
+  <p align="left">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tylergameryt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylergameryt&layout=compact&theme=tokyonight&hide=html,css" />
+  </p>
 </details>
 
 ---
+
 
 ## ❤️ Support me
 Love/like my work? Consider supporting me <3 (If you can't support, recommend me to your friends or someone, who knows, they might need some help at something)  
