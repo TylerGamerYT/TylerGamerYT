@@ -65,9 +65,7 @@ Always giving my best 💪
 ## 🎮 Currently Doing / Stats
 
 <p align="left">
-  <a href="https://discord.com/users/1135892597852868690">
-    <img src="https://lanyard.wrapped.run/api/1135892597852868690?theme=dark&bg=0d1117&hide_presence=true" alt="Status" />
-  </a>
+  <img src="https://lanyard.wrapped.run/api/1135892597852868690" alt="Status" />
 </p>
 
 <details open>
