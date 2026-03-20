@@ -64,10 +64,9 @@ Always giving my best 💪
 
 ## 🎮 Currently Doing / Stats
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/1135892597852868690?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/1135892597852868690)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/1135892597852868690)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/1135892597852868690)](https://dev.discordprofiles.me/openspotify/1135892597852868690)
+<p align="left">
+  <img src="https://lanyard.wrapped.run/api/1135892597852868690?theme=dark&bg=0d1117" alt="Status" />
+</p>
 
 <details open>
   <summary><b>Github Stats ⚡</b></summary>
