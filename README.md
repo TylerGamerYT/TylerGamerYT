@@ -61,20 +61,22 @@ Always giving my best 💪
 <a href="https://www.instagram.com/tylergameryt_/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&size=50" alt="Instagram"></a>
 
 ---
+
 ## 🎮 Currently Doing / Stats
 
 <p align="left">
-  <img src="https://lanyard.wrapped.run/api/tylergameryt?theme=dark&bg=1a1b27&hide_presence=true" alt="Status" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tylergameryt&repo=tylergameryt&theme=tokyonight&show_owner=true" alt="Status" width="400" />
 </p>
 
+<details open>
+<summary><b>Github Stats ⚡</b></summary>
+<br/>
 <p align="left">
-  <details open>
-    <summary><b>Github Stats ⚡</b></summary>
-    <br/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tylergameryt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylergameryt&layout=compact&theme=tokyonight&hide=html,css" />
-  </details>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tylergameryt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylergameryt&layout=compact&theme=tokyonight&hide=html,css" />
 </p>
+</details>
+
 ---
 
 ## ❤️ Support me
