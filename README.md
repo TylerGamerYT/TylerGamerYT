@@ -76,8 +76,8 @@ Always giving my best 💪
   <summary><b>Github Stats ⚡</b></summary>
   <br/>
   <p align="left">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tylergameryt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tylergameryt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css" />
+    <img height="180em" src="./generated/overview.svg" alt="TylerGameryt's GitHub Statistics" />
+    <img height="180em" src="./generated/languages.svg" alt="Languages Used By File Size" />
   </p>
 </details>
 
