@@ -60,7 +60,7 @@ Always giving my best 💪
 <a href="https://www.youtube.com/@TylerGamerYT" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=youtube&radius=50" alt="YouTube" height="50"></a>
 <a href="https://www.tiktok.com/@TylerGamerYT" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=tiktok&radius=50" alt="TikTok" height="50"></a>
 <a href="https://twitter.com/TylerGamerYT" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=twitter&radius=50" alt="Twitter" height="50"></a>
-<a href="https://www.instagram.com/TylerGamerYT/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=instagram&radius=50" alt="Instagram" height="50"></a>
+<a href="https://www.instagram.com/TylerGamerYT_/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=instagram&radius=50" alt="Instagram" height="50"></a>
 <a href="https://bsky.app/profile/TylerGamerYT.bsky.social" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=bluesky&radius=50" alt="Bluesky" height="50"></a>
 <a href="https://discord.com/users/1135892597852868690" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=discord&radius=50" alt="Discord" height="50"></a>
 <a href="https://steamcommunity.com/id/TylerGamerYT" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=steam&radius=50" alt="Steam" height="50"></a>
