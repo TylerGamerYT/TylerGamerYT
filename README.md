@@ -71,15 +71,15 @@ Always giving my best 💪
 ## 🎮 Currently Doing / Stats
 
 <p align="left">
-  <img src="https://lanyard.cnrad.dev/api/1135892597852868690?theme=dark&bg=transparent&hideDisc=true" alt="Discord Status" />
+  <img src="https://lanyard.cnrad.dev/api/1135892597852868690?theme=dark&bg=transparent" alt="Discord Status" />
 </p>
 
 <details open>
   <summary><b>Github Stats ⚡</b></summary>
   <br/>
   <p align="left">
-    <img height="180" src="https://github-stats-extended.vercel.app/api?username=tylergameryt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" />
-    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tylergameryt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css" />
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tylergameryt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" />
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tylergameryt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css" />
   </p>
 </details>
 
