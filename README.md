@@ -38,28 +38,30 @@ Always giving my best 💪
 <!-- Row 1: Programming languages -->
 **Row 1: Programming Languages**  
 <br>
-![Skills1](https://skillicons.dev/icons?i=py,cpp,js,ts,lua,html,css&size=50)  
+![Programming Languages](https://skills.syvixor.com/api/icons?i=python,cpp,javascript,typescript,lua,html,css3&perline=7&radius=50)
 
 <!-- Row 2: Frameworks, Libraries, and Apps -->
 **Row 2: Frameworks, Libraries & Apps**  
 <br>
-![Skills2](https://skillicons.dev/icons?i=nodejs,react,discordjs,robloxstudio,blender,figma,vim&size=50)  
+![Frameworks & Apps](https://skills.syvixor.com/api/icons?i=nodejs,reactjs,discordjs,blender,figma,vim&perline=7&radius=50)  
 
-<!-- Row 3a: Dev Tools & Design -->
-**Row 3: Tools, OS, AI, Databases**  
+<!-- Row 3: Tools, OS, AI, Databases -->
+**Row 3: Tools, OS & Databases**  
 <br>
-![Skills3a](https://skillicons.dev/icons?i=vscode,ps,pr,ai,xd,replit,cloudflare&size=50)
+![Tools & OS](https://skills.syvixor.com/api/icons?i=visualstudiocode,adobephotoshop,adobepremierepro,adobeillustrator,adobexd,replit,cloudflare,windows,apple,linux,bash,mongodb,npm,git,gitlab&perline=7&radius=50)
 
-<!-- Row 3b: OS, CLI & Databases -->
-![Skills3b](https://skillicons.dev/icons?i=windows,apple,linux,bash,mongodb,npm,git,gitlab&size=50)
-
-<!-- Row 4: Social & Music -->
-**Row 4: Social & Music**  
+<!-- Row 4: Socials -->
+**Row 4: Socials**  
 <br>
-<a href="https://open.spotify.com/user/31n3o2rr7u2354jil45jexcsngsy" target="_blank"><img src="https://skillicons.dev/icons?i=spotify&size=50" alt="Spotify"></a>
-<a href="https://github.com/tylergameryt" target="_blank"><img src="https://skillicons.dev/icons?i=github&size=50" alt="GitHub"></a>
-<a href="https://twitter.com/tylergameryt" target="_blank"><img src="https://skillicons.dev/icons?i=twitter&size=50" alt="Twitter"></a>
-<a href="https://www.instagram.com/tylergameryt_/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&size=50" alt="Instagram"></a>
+<a href="https://github.com/tylergameryt" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=github&radius=50" alt="GitHub" height="50"></a>
+<a href="https://www.youtube.com/@TylerGamerYT" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=youtube&radius=50" alt="YouTube" height="50"></a>
+<a href="https://www.tiktok.com/@TylerGamerYT" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=tiktok&radius=50" alt="TikTok" height="50"></a>
+<a href="https://twitter.com/TylerGamerYT" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=twitter&radius=50" alt="Twitter" height="50"></a>
+<a href="https://www.instagram.com/TylerGamerYT/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=instagram&radius=50" alt="Instagram" height="50"></a>
+<a href="https://bsky.app/profile/TylerGamerYT.bsky.social" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=bluesky&radius=50" alt="Bluesky" height="50"></a>
+<a href="https://discord.com/users/1135892597852868690" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=discord&radius=50" alt="Discord" height="50"></a>
+<a href="https://steamcommunity.com/id/TylerGamerYT" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=steam&radius=50" alt="Steam" height="50"></a>
+<a href="https://www.reddit.com/user/-TylerGamerYT" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=reddit&radius=50" alt="Reddit" height="50"></a>
 
 ---
 
