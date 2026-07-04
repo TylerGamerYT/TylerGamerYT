@@ -38,17 +38,20 @@ Always giving my best 💪
 <!-- Row 1: Programming languages -->
 **Row 1: Programming Languages**  
 <br>
-![Programming Languages](https://skills.syvixor.com/api/icons?i=python,cpp,javascript,typescript,lua,html,css3&perline=7&radius=50)
+![Skills1](https://skills.syvixor.com/api/icons?i=python,cpp,javascript,typescript,lua,html,css3&perline=7&radius=50)  
 
 <!-- Row 2: Frameworks, Libraries, and Apps -->
 **Row 2: Frameworks, Libraries & Apps**  
 <br>
-![Frameworks & Apps](https://skills.syvixor.com/api/icons?i=nodejs,reactjs,discordjs,blender,figma,vim&perline=7&radius=50)  
+![Skills2](https://skills.syvixor.com/api/icons?i=nodejs,reactjs,discordjs,blender,figma,vim&perline=7&radius=50)  
 
-<!-- Row 3: Tools, OS, AI, Databases -->
-**Row 3: Tools, OS & Databases**  
+<!-- Row 3a: Dev Tools & Design -->
+**Row 3: Tools, OS, AI, Databases**  
 <br>
-![Tools & OS](https://skills.syvixor.com/api/icons?i=visualstudiocode,adobephotoshop,adobepremierepro,adobeillustrator,adobexd,replit,cloudflare,windows,apple,linux,bash,mongodb,npm,git,gitlab&perline=7&radius=50)
+![Skills3a](https://skills.syvixor.com/api/icons?i=visualstudiocode,adobephotoshop,adobepremierepro,adobeillustrator,adobexd,replit,cloudflare&perline=7&radius=50)
+
+<!-- Row 3b: OS, CLI & Databases -->
+![Skills3b](https://skills.syvixor.com/api/icons?i=windows,apple,linux,bash,mongodb,npm,git,gitlab&perline=8&radius=50)
 
 <!-- Row 4: Socials -->
 **Row 4: Socials**  
