@@ -68,21 +68,21 @@ Always giving my best 💪
 
 ---
 
-## 🎮 Currently Doing / Stats (COMING SOON)
+## 🎮 Currently Doing / Stats
 
 <p align="left">
-  <img src="https://img.shields.io/badge/currently-online-676767?style=flat-square&labelColor=333333" />
-  <img src="https://img.shields.io/badge/playing-COMING%20SOON-535EDC?style=flat-square&labelColor=333333" />
-  <img src="https://img.shields.io/badge/coding-COMING%20SOON-2baadd?style=flat-square&labelColor=333333" />
-  <img src="https://img.shields.io/badge/%F0%9F%8E%A7%20listening%20to-COMING%20SOON-2aa152?style=flat-square&labelColor=333333" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=333333&color=676767&label=currently&query=%24.data.discord_status&url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F1135892597852868690" alt="Discord Status" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=333333&color=535EDC&label=playing&query=%24.data.activities%5B0%5D.name&url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F1135892597852868690" alt="Current Game" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=333333&color=2baadd&label=coding&query=%24.data.activities%5B%3F%28%40.name%3D%3D%27Visual%20Studio%20Code%27%29%5D.details&url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F1135892597852868690" alt="Coding Status" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=333333&color=2aa152&label=%F0%9F%8E%A7%20listening%20to&query=%24.data.spotify.song&url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F1135892597852868690" alt="Spotify Song" />
 </p>
 
 <details open>
   <summary><b>Github Stats ⚡</b></summary>
   <br/>
   <p align="left">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tylergameryt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tylergameryt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css" />
+    <img height="180" src="https://github-readme-stats-one.vercel.app/api?username=tylergameryt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" />
+    <img height="180" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=tylergameryt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css" />
   </p>
 </details>
 
