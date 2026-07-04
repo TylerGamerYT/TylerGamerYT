@@ -72,9 +72,9 @@ Always giving my best 💪
 
 <p align="left">
   <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=333333&color=676767&label=currently&query=%24.data.discord_status&url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F1135892597852868690" alt="Discord Status" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=333333&color=535EDC&label=playing&query=%24.data.activities%5B0%5D.name&url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F1135892597852868690" alt="Current Game" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=333333&color=535EDC&label=playing&query=%24.data.activities%5B%3F%28%40.type%3D%3D0%29%5D.name&url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F1135892597852868690" alt="Current Game" />
   <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=333333&color=2baadd&label=coding&query=%24.data.activities%5B%3F%28%40.name%3D%3D%27Visual%20Studio%20Code%27%29%5D.details&url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F1135892597852868690" alt="Coding Status" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=333333&color=2aa152&label=%F0%9F%8E%A7%20listening%20to&query=%24.data.spotify.song&url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F1135892597852868690" alt="Spotify Song" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=333333&color=2aa152&label=listening%20to&query=%24.data.spotify.song&url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F1135892597852868690" alt="Spotify Song" />
 </p>
 
 <details open>
@@ -87,7 +87,6 @@ Always giving my best 💪
 </details>
 
 ---
-
 ## ❤️ Support me
 Love/like my work? Consider supporting me <3 (If you can't support, recommend me to your friends or someone, who knows, they might need some help at something)  
 
